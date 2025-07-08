@@ -8,7 +8,7 @@
         <version>3.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.burakkutbay</groupId>
+    <groupId>com.avazalijamal</groupId>
     <artifactId>spring-security-jwt-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-security-jwt-example</name>
